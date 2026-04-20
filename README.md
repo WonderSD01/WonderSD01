@@ -3,11 +3,6 @@ Louella | Web • AI • Automation • Cloud<br><br>I build scalable web applic
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](About Me:
-Louella | Web • AI • Automation • Cloud<br><br>I build scalable web applications and explore AI-powered automation using cloud technologies.<br><br>Focused on creating efficient systems that solve real-world problems.<br><br>Always learning. Always building.
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Louella-Mariz-Malabanan-7647b9272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malabananlouella@gmail.com) 
 
 # 💻 Tech Stack:
