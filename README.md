@@ -3,7 +3,7 @@ Louella | Web • AI • Automation • Cloud<br><br>I build scalable web applic
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](About Me:
 Louella | Web • AI • Automation • Cloud<br><br>I build scalable web applications and explore AI-powered automation using cloud technologies.<br><br>Focused on creating efficient systems that solve real-world problems.<br><br>Always learning. Always building.
 
 
